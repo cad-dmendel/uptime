@@ -7,6 +7,8 @@ sites:
     url: https://authenticator.cadastra.com
   - name: Metabase
     url: https://metabase.cadastra.com
+  - name: GitLab
+    url: https://gitlab.cadastra.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
