@@ -17,10 +17,10 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Cadastra Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Bem-vindo ao **Uptime** da Cadastra, uma ferramenta que verifica o status dos sites."
+  introMessage: Abaixo você pode clicar nos sites para obter o histórico do status. Sempre que algum site cair, um incidente é aberto para que seja verificado. O andamento e duração dos incidentes pode ser verificado por aqui mesmo.
   navbar:
-    - title: Status
+    - title: Página inicial
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
