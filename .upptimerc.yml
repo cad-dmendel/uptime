@@ -21,7 +21,7 @@ status-website:
   introMessage: Abaixo você pode clicar nos sites para obter o histórico do status. Sempre que algum site cair, um incidente é aberto para que seja verificado. O andamento e duração dos incidentes pode ser verificado por aqui mesmo.
   navbar:
     - title: Página inicial
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
