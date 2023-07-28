@@ -22,19 +22,19 @@
     "url": "https://metabase.cadastra.com",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.cadastra.com.ico",
     "slug": "metabase",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1962,
-    "timeDay": 14534,
-    "timeWeek": 3260,
-    "timeMonth": 1962,
-    "timeYear": 1962,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1883,
+    "timeDay": 9843,
+    "timeWeek": 3005,
+    "timeMonth": 1883,
+    "timeYear": 1883,
     "dailyMinutesDown": {
-      "2023-07-28": 0
+      "2023-07-28": 5
     }
   },
   {
