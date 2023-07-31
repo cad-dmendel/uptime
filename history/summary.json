@@ -22,18 +22,20 @@
     "url": "https://metabase.cadastra.com",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.cadastra.com.ico",
     "slug": "metabase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1670,
-    "timeDay": 496,
-    "timeWeek": 2891,
-    "timeMonth": 1670,
-    "timeYear": 1670,
-    "dailyMinutesDown": {}
+    "time": 1601,
+    "timeDay": 291,
+    "timeWeek": 2657,
+    "timeMonth": 1601,
+    "timeYear": 1601,
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   },
   {
     "name": "GitLab",
