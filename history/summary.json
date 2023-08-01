@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 187,
+    "time": 167,
+    "timeDay": 85,
     "timeWeek": 130,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/metabase.cadastra.com.ico",
     "slug": "metabase",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1547,
-    "timeDay": 294,
-    "timeWeek": 2476,
-    "timeMonth": 1547,
-    "timeYear": 1547,
-    "dailyMinutesDown": {
-      "2023-07-31": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1488,
+    "timeDay": 152,
+    "timeWeek": 2469,
+    "timeMonth": 1488,
+    "timeYear": 1488,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitLab",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 287,
-    "timeWeek": 208,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "time": 266,
+    "timeDay": 133,
+    "timeWeek": 201,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   }
 ]
