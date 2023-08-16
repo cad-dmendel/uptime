@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/authenticator.cadastra.com.ico",
     "slug": "authenticator",
     "status": "up",
-    "uptime": "95.96%",
+    "uptime": "96.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "84.30%",
-    "uptimeMonth": "95.96%",
-    "uptimeYear": "95.96%",
+    "uptimeMonth": "96.05%",
+    "uptimeYear": "96.05%",
     "time": 158,
     "timeDay": 71,
     "timeWeek": 174,
@@ -43,9 +43,9 @@
     "url": "https://gitlab.cadastra.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.cadastra.com.ico",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,6 +54,8 @@
     "timeWeek": 228,
     "timeMonth": 246,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-16": 0
+    }
   }
 ]
