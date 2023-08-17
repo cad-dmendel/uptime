@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/authenticator.cadastra.com.ico",
     "slug": "authenticator",
     "status": "up",
-    "uptime": "96.05%",
+    "uptime": "96.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "84.30%",
-    "uptimeMonth": "96.05%",
-    "uptimeYear": "96.05%",
-    "time": 158,
-    "timeDay": 71,
-    "timeWeek": 174,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "uptimeMonth": "96.10%",
+    "uptimeYear": "96.10%",
+    "time": 162,
+    "timeDay": 313,
+    "timeWeek": 201,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2023-08-14": 859,
       "2023-08-13": 724
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1017,
-    "timeDay": 112,
-    "timeWeek": 383,
-    "timeMonth": 1017,
-    "timeYear": 1017,
+    "time": 1011,
+    "timeDay": 783,
+    "timeWeek": 480,
+    "timeMonth": 1011,
+    "timeYear": 1011,
     "dailyMinutesDown": {}
   },
   {
@@ -45,17 +45,15 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 261,
-    "timeWeek": 246,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {
-      "2023-08-16": 1
-    }
+    "time": 252,
+    "timeDay": 362,
+    "timeWeek": 274,
+    "timeMonth": 252,
+    "timeYear": 252,
+    "dailyMinutesDown": {}
   }
 ]
