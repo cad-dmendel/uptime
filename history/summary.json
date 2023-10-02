@@ -27,17 +27,17 @@
     "slug": "metabase",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 783,
-    "timeDay": 425,
-    "timeWeek": 544,
-    "timeMonth": 427,
-    "timeYear": 783,
+    "time": 866,
+    "timeDay": 4618,
+    "timeWeek": 1577,
+    "timeMonth": 697,
+    "timeYear": 866,
     "dailyMinutesDown": {
-      "2023-10-02": 0
+      "2023-10-02": 1
     }
   },
   {
