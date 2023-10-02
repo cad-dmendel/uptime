@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/authenticator.cadastra.com.ico",
     "slug": "authenticator",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.53%",
     "time": 193,
     "timeDay": 233,
     "timeWeek": 285,
@@ -36,7 +36,9 @@
     "timeWeek": 544,
     "timeMonth": 427,
     "timeYear": 783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-02": 0
+    }
   },
   {
     "name": "GitLab",
