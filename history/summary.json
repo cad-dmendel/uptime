@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.77%",
-    "time": 484,
-    "timeDay": 10110,
-    "timeWeek": 3501,
-    "timeMonth": 1141,
-    "timeYear": 484,
+    "time": 482,
+    "timeDay": 10105,
+    "timeWeek": 3510,
+    "timeMonth": 1144,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2023-08-14": 859,
       "2023-08-13": 724
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 871,
-    "timeDay": 3251,
-    "timeWeek": 1342,
-    "timeMonth": 924,
-    "timeYear": 871,
+    "time": 867,
+    "timeDay": 3259,
+    "timeWeek": 1376,
+    "timeMonth": 930,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2023-10-16": 14
     }
@@ -47,17 +47,15 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 395,
-    "timeWeek": 297,
-    "timeMonth": 274,
+    "timeDay": 406,
+    "timeWeek": 310,
+    "timeMonth": 279,
     "timeYear": 263,
-    "dailyMinutesDown": {
-      "2023-10-16": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
