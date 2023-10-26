@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/authenticator.cadastra.com.ico",
     "slug": "authenticator",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.87%",
-    "time": 465,
-    "timeDay": 225,
-    "timeWeek": 260,
-    "timeMonth": 1157,
-    "timeYear": 465,
+    "uptimeYear": "98.88%",
+    "time": 463,
+    "timeDay": 307,
+    "timeWeek": 287,
+    "timeMonth": 1163,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2023-08-14": 859,
       "2023-08-13": 724
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 831,
-    "timeDay": 507,
+    "time": 825,
+    "timeDay": 102,
     "timeWeek": 565,
-    "timeMonth": 896,
-    "timeYear": 831,
+    "timeMonth": 895,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2023-10-16": 14
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 282,
+    "time": 263,
+    "timeDay": 144,
     "timeWeek": 294,
-    "timeMonth": 284,
-    "timeYear": 264,
+    "timeMonth": 285,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   }
 ]
