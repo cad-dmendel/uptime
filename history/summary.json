@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
-    "time": 375,
-    "timeDay": 34,
-    "timeWeek": 178,
-    "timeMonth": 177,
-    "timeYear": 375,
+    "time": 374,
+    "timeDay": 351,
+    "timeWeek": 215,
+    "timeMonth": 178,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2023-08-14": 859,
       "2023-08-13": 724
@@ -27,17 +27,16 @@
     "slug": "metabase",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 650,
-    "timeDay": 481,
-    "timeWeek": 396,
-    "timeMonth": 417,
+    "timeDay": 679,
+    "timeWeek": 438,
+    "timeMonth": 416,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2023-12-21": 1,
       "2023-11-06": 1,
       "2023-10-16": 14
     }
@@ -53,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 109,
-    "timeWeek": 206,
-    "timeMonth": 226,
-    "timeYear": 258,
+    "time": 259,
+    "timeDay": 347,
+    "timeWeek": 236,
+    "timeMonth": 225,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   }
 ]
