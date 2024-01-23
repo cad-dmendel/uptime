@@ -4,7 +4,7 @@
     "url": "https://authenticator.cadastra.com",
     "icon": "https://icons.duckduckgo.com/ip3/authenticator.cadastra.com.ico",
     "slug": "authenticator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 195,
     "timeYear": 346,
     "dailyMinutesDown": {
+      "2024-01-23": 0,
       "2023-08-14": 859,
       "2023-08-13": 724
     }
@@ -48,9 +49,9 @@
     "slug": "git-lab",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 256,
     "timeDay": 567,
@@ -58,7 +59,7 @@
     "timeMonth": 242,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2024-01-23": 0
+      "2024-01-23": 3
     }
   }
 ]
