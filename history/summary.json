@@ -25,18 +25,19 @@
     "url": "https://metabase.cadastra.com",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.cadastra.com.ico",
     "slug": "metabase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 457,
-    "timeWeek": 431,
-    "timeMonth": 414,
-    "timeYear": 566,
+    "time": 565,
+    "timeDay": 406,
+    "timeWeek": 432,
+    "timeMonth": 410,
+    "timeYear": 565,
     "dailyMinutesDown": {
+      "2024-02-22": 0,
       "2023-11-06": 1,
       "2023-10-16": 14
     }
@@ -48,8 +49,8 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
@@ -57,8 +58,6 @@
     "timeWeek": 352,
     "timeMonth": 291,
     "timeYear": 259,
-    "dailyMinutesDown": {
-      "2024-02-22": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
