@@ -46,11 +46,11 @@
     "url": "https://gitlab.cadastra.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.cadastra.com.ico",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
     "timeDay": 661,
@@ -58,7 +58,7 @@
     "timeMonth": 285,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2024-02-22": 3
+      "2024-02-22": 0
     }
   }
 ]
