@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 317,
-    "timeDay": 138,
-    "timeWeek": 217,
+    "time": 318,
+    "timeDay": 366,
+    "timeWeek": 227,
     "timeMonth": 165,
-    "timeYear": 317,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2023-08-14": 859,
       "2023-08-13": 724
@@ -26,18 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/metabase.cadastra.com.ico",
     "slug": "metabase",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 442,
-    "timeWeek": 439,
+    "timeDay": 623,
+    "timeWeek": 452,
     "timeMonth": 371,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2024-03-03": 1,
       "2023-11-06": 1,
       "2023-10-16": 14
     }
@@ -53,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 179,
-    "timeWeek": 277,
-    "timeMonth": 249,
-    "timeYear": 257,
+    "time": 258,
+    "timeDay": 384,
+    "timeWeek": 287,
+    "timeMonth": 248,
+    "timeYear": 258,
     "dailyMinutesDown": {}
   }
 ]
