@@ -25,18 +25,19 @@
     "url": "https://metabase.cadastra.com",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.cadastra.com.ico",
     "slug": "metabase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 191,
-    "timeWeek": 456,
-    "timeMonth": 403,
-    "timeYear": 543,
+    "time": 541,
+    "timeDay": 105,
+    "timeWeek": 450,
+    "timeMonth": 396,
+    "timeYear": 541,
     "dailyMinutesDown": {
+      "2024-03-22": 0,
       "2023-11-06": 1,
       "2023-10-16": 14
     }
@@ -55,7 +56,7 @@
     "time": 253,
     "timeDay": 129,
     "timeWeek": 218,
-    "timeMonth": 253,
+    "timeMonth": 211,
     "timeYear": 253,
     "dailyMinutesDown": {}
   }
