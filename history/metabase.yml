@@ -1,7 +1,7 @@
 url: https://metabase.cadastra.com
-status: down
-code: 502
-responseTime: 1129
-lastUpdated: 2024-05-28T12:48:55.954Z
+status: up
+code: 200
+responseTime: 533
+lastUpdated: 2024-05-28T12:53:05.385Z
 startTime: 2023-07-19T19:32:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
