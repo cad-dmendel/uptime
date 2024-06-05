@@ -4,11 +4,11 @@
     "url": "https://authenticator.cadastra.com",
     "icon": "https://icons.duckduckgo.com/ip3/authenticator.cadastra.com.ico",
     "slug": "authenticator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.66%",
     "time": 301,
     "timeDay": 3043,
@@ -16,7 +16,7 @@
     "timeMonth": 374,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2024-06-05": 1,
+      "2024-06-05": 9,
       "2023-08-14": 859,
       "2023-08-13": 724
     }
@@ -26,10 +26,10 @@
     "url": "https://metabase.cadastra.com",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.cadastra.com.ico",
     "slug": "metabase",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 577,
@@ -38,7 +38,7 @@
     "timeMonth": 951,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2024-06-05": 10,
+      "2024-06-05": 8,
       "2023-11-06": 1,
       "2023-10-16": 14
     }
