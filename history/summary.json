@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 285,
-    "timeDay": 346,
-    "timeWeek": 220,
+    "timeDay": 321,
+    "timeWeek": 229,
     "timeMonth": 210,
     "timeYear": 285,
     "dailyMinutesDown": {
@@ -25,9 +25,9 @@
     "url": "https://metabase.cadastra.com",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.cadastra.com.ico",
     "slug": "metabase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 496,
     "timeYear": 522,
     "dailyMinutesDown": {
+      "2024-06-05": 0,
       "2023-11-06": 1,
       "2023-10-16": 14
     }
