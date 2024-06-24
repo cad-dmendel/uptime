@@ -1,7 +1,7 @@
 url: https://gitlab.cadastra.com
-status: down
-code: 500
-responseTime: 114
-lastUpdated: 2024-06-24T04:59:52.545Z
+status: up
+code: 200
+responseTime: 603
+lastUpdated: 2024-06-24T13:59:07.273Z
 startTime: 2023-07-19T19:43:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
